@@ -1,0 +1,10 @@
+:root {
+    --main-text-color:#000;
+    --main-color: linear-gradient(#00B0BB, #6AD9C4);
+    --secondary-color: linear-gradient(to top,#CB2D3E, #EF473A);
+    --secondary-text-color:#EBEBEB;
+}
+
+/* Use "background-image:" property to use gradients */
+
+
